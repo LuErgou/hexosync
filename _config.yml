@@ -44,12 +44,12 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: uncategorized
+default_category: others
 category_map:
-	Python: Python
-	生活: life 
+	测试: test
 tag_map:
-
+	测试1: test1
+	测试2: test2
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
