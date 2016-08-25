@@ -72,7 +72,11 @@ duoshuo_shortname: ludaming
 duoshuo_share: true
 # 百度统计
 baidu_analytics: 3621ba02133806d50f431f4a8cc294ba
-
+# sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
