@@ -1,5 +1,5 @@
 ---
-title: Python中的时间
+title: Python中的时间总结(time,datetime)
 date: 2016-08-25 10:04:23
 categories:
 - Python
@@ -137,3 +137,5 @@ To-do
 |%Z| 当前时区的名称|
 |%%| %号本身|
 
+
+本文链接: [http://ludaming.com/posts/Python/python-date-time.html](http://ludaming.com/posts/Python/python-date-time.html)
