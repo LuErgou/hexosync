@@ -66,6 +66,13 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 
+# 多说评论
+duoshuo_shortname: ludaming
+#多说分享
+duoshuo_share: true
+# 百度统计
+baidu_analytics: 3621ba02133806d50f431f4a8cc294ba
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
