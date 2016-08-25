@@ -25,12 +25,14 @@ Python对于日期的处理主要是**time**和**datetime**两个模块
 **datetime**模块常用**datetime**和**timedelta**类，也提供了**date**、**time**类
 
 python中时间分为
-| | | |
-|----|----|----|
-|时间戳|  1 | 1 |
-|时间元组p_tuple|  time模块| 1 |
-|datetime对象|datetime模块|又包含date对象和time对象|
-|timedelta对象|datetime模块|  1|
+
+|类型|所属|
+|--------|-------|
+|时间戳| |
+|时间元组p_tuple|time模块|
+|datetime对象|datetime模块（又包含date对象和time对象)|
+|timedelta对象|datetime模块| 
+
 **常用**
 
 #### 生成time tuple类对象p_tuple以及格式化输出
