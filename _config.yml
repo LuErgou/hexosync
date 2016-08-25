@@ -46,10 +46,9 @@ highlight:
 # Category & Tag
 default_category: others
 category_map:
-	测试: test
 tag_map:
-	测试1: test1
-	测试2: test2
+	Python模块: Python Modules
+	时间: time 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
