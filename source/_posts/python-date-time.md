@@ -7,6 +7,9 @@ tags:
 - Python
 - Python模块
 - 时间
+- time
+- datetime
+- 编程
 ---
 {% cq %} Python中的时间格式真烦。 {% endcq %}
 
