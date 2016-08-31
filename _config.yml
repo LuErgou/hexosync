@@ -5,7 +5,7 @@
 # Site
 title: 卢大明的博客
 subtitle: 代码界的张宗昌
-description: 远看像条狗
+description: 行走的尴尬
 author: 卢大明
 language: zh-Hans
 timezone: Asia/Shanghai
@@ -80,7 +80,7 @@ baidusitemap:
   path: baidusitemap.xml
 
 # 百度认证
-  
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
