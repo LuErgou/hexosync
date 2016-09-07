@@ -1,5 +1,5 @@
 ---
-title: centos7 安装python3并配置virtualenv.md
+title: centos7 安装python3并配置virtualenv
 date: 2016-09-07 09:00:57
 categories:
 - Python
@@ -26,7 +26,7 @@ centos7默认没有python3，为了能建立python3的隔离环境，需要先�
 ```
 # 准备编译环境
 >>>yum groupinstall 'Development Tools'
->>>yum install zlib-devel bzip2-devel openssl-devel ncurese-devel
+>>>yum install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel gdbm-devel db4-devel libpcap-devel xz-devel libcurl-devel
 # 安装python3
 >>>wget https://www.python.org/ftp/python/3.5.2/Python-3.5.2.tar.xz
 >>>tar xvf Python-3.5.2.tar.xz
