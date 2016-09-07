@@ -15,6 +15,12 @@ tags:
 这就要用到virtualenv
 
 
+## 注意
+通过源码编译安装python3的时候，一定要安装好编译环境。
+我就是没有装sqlite-devel，造成python3无法Import sqlite3
+如果出现了这个情况，就删除python3目录，安好变异环境后再重新编译安装python3
+
+
 ## 安装python3
 centos7默认没有python3，为了能建立python3的隔离环境，需要先为系统安装python3
 ```
