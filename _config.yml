@@ -46,10 +46,12 @@ highlight:
 # Category & Tag
 default_category: others
 category_map:
+  爬虫: spider
 tag_map:
 	Python模块: Python Modules
 	时间: time 
 	编程: program
+  爬虫: spider
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
