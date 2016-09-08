@@ -22,7 +22,7 @@ requests+bs4+re就自己开写了，
 然后用了多线程，又改成多进程。
 总感觉自己写的有点靠不住。
 
-正好发现scrapy开始支持python3了。
+正好发现scrapy开始支持python3了。（然而只能在linux平台，因为scrapy依赖于twisted，而twisted在win平台不支持python3）
 又听说了有国人搞出来的pyspider
 
 应该比我自己写的不知道高到哪里去了。
