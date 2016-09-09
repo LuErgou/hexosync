@@ -12,6 +12,7 @@ tags:
 ---
 {% cq %}人生苦短，少用windows{% endcq %}
 
+<!-- more -->
 
 我是在自己的vps（centos7）上部署的，使用了virtualenv，使用的python版本为3.5.2
 注意编译环境一定要装好。
@@ -89,9 +90,9 @@ pip install pycurl --no-cache-dir
 此时开放vps的5000端口，就可以通过浏览器访问pyspider的webui了
 
 
-pyspider默认没有phantomjs和wsgidav
+pyspider默认没有phantomjs和wsgidav。
 需要自己配置开启。
-
+默认使用sqlite数据库，会在执行pyspider命令的目录下生成data目录。
 
 
 本文链接: [http://ludaming.com/posts/spider/pyspider-deploy-on-centos7.html](http://ludaming.com/posts/spider/pyspider-deploy-on-centos7.html)
