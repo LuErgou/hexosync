@@ -107,13 +107,13 @@ psql
 ```
 
 ## psql配置
-#### 开启远程访问
+### 开启远程访问
 psql默认只能通过本地访问。
 打开配置文件  /var/lib/pgsql/9.5/data/postgresql.conf
 将listen_address设置为'*'
 重启psql
 
-#### psql认证权限配置
+### psql认证权限配置
 认证权限配置文件  /var/lib/pgsql/9.5/data/pg_hba.conf
 psql 支持11中身份验证方式
 下面是常见的四种
@@ -147,7 +147,7 @@ host    all             all             0.0.0.0/0            md5
 
 ## psql控制台命令
 
-#### psql命令
+### psql命令
 - \h：查看SQL命令的详细解释，例如 \h select
 - \?：查看psql命令列表
 - \l：列出所有数据库
@@ -156,9 +156,9 @@ host    all             all             0.0.0.0/0            md5
 - \du：列出所有数据库用户
 - \conninfo：列出连接
 
-#### 导出数据库
+### 导出数据库
 pg_dump -h localhost -U postgres postgres > ~/test.sql
-#### 导入数据库
+### 导入数据库
 psql -U postgres postgres < ~/test.sql
 
 

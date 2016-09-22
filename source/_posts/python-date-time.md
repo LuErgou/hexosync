@@ -108,8 +108,7 @@ time.struct_time(tm_year=2016, tm_mon=8, tm_mday=25, tm_hour=9, tm_min=30, tm_se
 
 
 ### time
-To-do
-
+见[Python time模块详解](http://ludaming.com/posts/Python/python-module-time.html)
 
 ### datetime
 To-do

@@ -38,9 +38,9 @@ pyspider
 
 
 ## 遇到的问题
-#### pip install pyspider 执行后提示curl安装不上
+### pip install pyspider 执行后提示curl安装不上
     是因为编译环境没有装好，yum安装libcurl-devel即可
-#### 安装好pyspider成功，运行pyspider命令时报错
+### 安装好pyspider成功，运行pyspider命令时报错
 ```
 RuntimeError: Click will abort further execution because Python 3 was configured to use ASCII as encoding for the environment.  Either run this under Python 2 or consult http://click.pocoo.org/python3/ for mitigation steps.
 ```
@@ -56,7 +56,7 @@ export LC_ALL=en_US.utf-8
 export LANG=en_US.utf-8
 ```
 
-####运行pyspider命令时报错
+###运行pyspider命令时报错
 ```
 libcurl link-time ssl backend (nss) is different from compile-time ssl backend (none/other)
 ```
@@ -69,7 +69,7 @@ pip install pycurl --no-cache-dir
 []中取决于你报错时link-time ssl backend后面括号的内容。保持相同即可
 关于这部分讨论的stackoverflow的页面，[http://stackoverflow.com/questions/21096436/ssl-backend-error-when-using-openssl](http://stackoverflow.com/questions/21096436/ssl-backend-error-when-using-openssl)
 
-####运行pyspider命令时提示**ImportError: No module named '_sqlite3'**
+###运行pyspider命令时提示**ImportError: No module named '_sqlite3'**
 这是python3没有编译好。见[这里](http://ludaming.com/posts/Python/virtualenv.html)
 
 ## 运行后效果

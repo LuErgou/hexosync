@@ -94,7 +94,7 @@ Scrapy运行流程:
 
 
 ## 悲剧啊!!
-#### pyspider
+### pyspider
 运行起来pyspider不能跑爬虫，一执行就表示python已经奔溃用户你去吃屎吧。
 官方文档有一个[常见问答](http://docs.pyspider.org/en/latest/Frequently-Asked-Questions/)
 **Does pyspider Work with Windows？**
@@ -104,7 +104,7 @@ Yes, it **should**, some users have made it work on Windows. But as I don't have
 - Try 32bit version of Python, especially your are facing crash issue.
 - Avoid using Python 3.4.1 (#194, #217)
 
-#### scrapy
+### scrapy
 官方文档，安装指南
 Python 3 is not supported on Windows. This is because Scrapy core requirement Twisted does not support Python 3 on Windows.
 你表妹啊，工作的电脑不用windows太不方便啊。
