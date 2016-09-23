@@ -1,5 +1,5 @@
 ---
-title: python open()方法和文件读写
+title: python3 open()方法和文件读写
 date: 2016-09-22 10:03:26
 categories:
 - Python
@@ -8,7 +8,8 @@ tags:
 - 编程
 - 文件处理
 ---
-
+python3.5
+centos7
 关于python对于文件的读写和open()方法。
 <!-- more -->
 

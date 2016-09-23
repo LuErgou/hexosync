@@ -1,5 +1,5 @@
 ---
-title: Python中的时间总结(time,datetime)
+title: Python3中的时间总结(time,datetime)
 date: 2016-08-25 10:04:23
 categories:
 - Python
@@ -14,6 +14,9 @@ tags:
 {% cq %} Python中的时间格式真烦。 {% endcq %}
 
 <!--more-->
+python3.5
+centos7
+
 并不经常用到Python中的时间，偶尔用的时候经常需要google。
 Python对于日期的处理主要是**time**和**datetime**两个模块
 

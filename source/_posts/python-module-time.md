@@ -1,5 +1,5 @@
 ---
-title: Python time模块详解
+title: Python3 time模块详解
 date: 2016-08-25 16:46:44
 categories:
 - Python
@@ -10,9 +10,12 @@ tags:
 - 编程
 - 时间
 ---
-{% cq %} Python的time模块详解。 {% endcq %}
+{% cq %} Python3的time模块详解。 {% endcq %}
 
 <!--more-->
+python3.5
+centos7
+
 官方手册对于**time**模块的说明:
 >尽管此模块大部分时候是有效的，但是有的函数在某些平台上无效。（说的就是你，Windows）
 此模块中大部分方法调用的名称本地平台下的C语言库同名
