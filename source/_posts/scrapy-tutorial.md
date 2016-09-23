@@ -1,5 +1,5 @@
 ---
-title: scrapy1.1 新手指南
+title: scrapy1.1 新手指南(python3)
 date: 2016-09-23 14:21:08
 categories:
 - spider
