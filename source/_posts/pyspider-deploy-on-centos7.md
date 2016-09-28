@@ -2,9 +2,8 @@
 title: pyspider部署以及遇到的问题（on centos7）
 date: 2016-09-08 14:13:10
 categories:
-- 爬虫
+- spider
 tags:
-- 爬虫
 - spider
 - Python
 - Python框架

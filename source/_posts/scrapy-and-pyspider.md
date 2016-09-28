@@ -2,10 +2,9 @@
 title: scrapy和pyspider简介
 date: 2016-09-06 16:16:15
 categories:
-- 爬虫
+- spider
 tags:
 - spider
-- 爬虫
 - Python模块
 - pyspider
 - scrapy
