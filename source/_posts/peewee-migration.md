@@ -6,7 +6,6 @@ categories:
 tags:
 - Python
 - sql
-- Python模块
 - peewee
 ---
 使用peewee生成表模型后

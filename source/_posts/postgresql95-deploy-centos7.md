@@ -6,7 +6,6 @@ categories:
 tags:
 - sql
 - postgresql
-- 数据库
 ---
 
 

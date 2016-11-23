@@ -6,8 +6,6 @@ categories:
 tags:
 - spider
 - Python
-- Python框架
-- 编程
 ---
 {% cq %}人生苦短，少用windows{% endcq %}
 

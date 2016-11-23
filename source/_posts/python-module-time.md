@@ -5,10 +5,7 @@ categories:
 - Python
 tags:
 - Python
-- Python模块
 - time
-- 编程
-- 时间
 ---
 {% cq %} Python3的time模块详解。 {% endcq %}
 

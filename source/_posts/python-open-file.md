@@ -5,8 +5,6 @@ categories:
 - Python
 tags:
 - Python
-- 编程
-- 文件处理
 ---
 python3.5
 centos7
